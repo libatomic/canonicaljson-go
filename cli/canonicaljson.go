@@ -3,9 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/gibson042/canonicaljson-go"
 	"log"
 	"os"
+
+	"github.com/libatomic/canonicaljson-go"
 )
 
 func main() {
